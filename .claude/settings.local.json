@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find C:UsersNicksourcereposUsingSpectreConsole -type f -name *.sln -o -name *.csproj -o -name *.vbproj)",
+      "Bash(find C:UsersNicksourcereposUsingSpectreConsole -type f -name *.json -o -name *.config)",
+      "WebFetch(domain:spectreconsole.net)"
+    ]
+  }
+}
